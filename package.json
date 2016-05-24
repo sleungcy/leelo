@@ -1,0 +1,17 @@
+{
+  "name": "leelo_1",
+  "version": "0.0.0",
+  "description": "First one",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Richard Lee",
+  "license": "ISC",
+  "dependencies": {
+    "compression": "^1.6.1",
+    "errorhandler": "^1.4.3",
+    "express": "^4.13.4",
+    "morgan": "^1.7.0"
+  }
+}
